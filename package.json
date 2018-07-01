@@ -1,0 +1,25 @@
+{
+  "name": "beacon",
+  "version": "1.0.0",
+  "description": "Data Consolidation",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "webpack": "^4.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjmok/beacon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjmok/beacon/issues"
+  },
+  "homepage": "https://github.com/jjmok/beacon#readme"
+}
